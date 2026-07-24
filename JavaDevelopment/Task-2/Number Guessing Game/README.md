@@ -27,5 +27,4 @@ The Number Guessing Game is a Java console application where the computer genera
 5. Choose whether to play another round.
 
 
-## Author
-Your Name
+
